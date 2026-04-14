@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspiring back-end developer focused on Java and relational databases (MySQL).<br><br>I have hands-on experience building applications with database integration, using JDBC, relational modeling, and layered architecture (such as DAO), always aiming to follow clean code practices and maintain well-structured systems.<br><br>I also have experience developing graphical interfaces with Java Swing and building complete applications, from business logic to data persistence.<br><br>I am self-taught, quick to learn new technologies, and constantly working to improve my skills, with a focus on developing real-world, scalable, and well-structured solutions.</p>
+<p align="left"> back-end developer focused on Java and relational databases (MySQL).<br><br>I have hands-on experience building applications with database integration, using JDBC, relational modeling, and layered architecture (such as DAO), always aiming to follow clean code practices and maintain well-structured systems.<br><br>I also have experience developing graphical interfaces with Java Swing and building complete applications, from business logic to data persistence.<br><br>I am self-taught, quick to learn new technologies, and constantly working to improve my skills, with a focus on developing real-world, scalable, and well-structured solutions.</p>
 
 ###
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTR0OG1oZ2FzemVuYWUzZHRjaDNnbmxnbnpwbXJmNmo1Nzg2aHNkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif"  />
